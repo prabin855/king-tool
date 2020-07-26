@@ -26,5 +26,5 @@ $cd facebook-hack
 $ls
 
 $python2 Eror-Toxic.py
-Username :
-Password:
+Username :king
+Password :king
