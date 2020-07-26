@@ -21,10 +21,10 @@ $git clone https://github.com/prabin855/king-tool
 
 $ls
 
-$cd facebook-hack
+$cd king-tool
 
 $ls
 
-$python2 Eror-Toxic.py
+$python2 king.py
 Username :king
 Password :king
